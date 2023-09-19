@@ -17,7 +17,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Styles
+          <b>Styles</b>
         </Link>
 
          {/* fashion */}
@@ -27,7 +27,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Fashion
+          <b>Fashion</b>
         </Link>
 
          {/* food */}
@@ -37,7 +37,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Food
+          <b>Food</b>
         </Link>
 
          {/* travel */}
@@ -47,7 +47,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Travel
+          <b>Travel</b>
         </Link>
 
          {/* culture */}
@@ -57,7 +57,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Culture
+          <b>Culture</b>
         </Link>
 
          {/* coding */}
@@ -67,7 +67,7 @@ const CategoryList = () => {
           width={35} 
           height={35} 
           className={styles.image} />
-          Coding
+          <b>Coding</b>
         </Link>
       </div>
 
